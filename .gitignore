@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+
+# Editor / tool local state (not course content)
+.obsidian/
+.claude/
+.idea/
+*.iml
+
+# Java build output
+out/
+target/
+*.class
+
+# Runtime-generated files produced by running demos (e.g. serialization)
+*.ser
